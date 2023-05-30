@@ -1,0 +1,24 @@
+{
+  "name": "eodstocks",
+  "version": "1.0.0",
+  "description": "End of day stock data for stocks and markets using the eodhistoricaldata.com API",
+  "main": "App.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flemton/eodstocks.git"
+  },
+  "keywords": [
+    "eod",
+    "stocks",
+    "markets"
+  ],
+  "author": "Alhassan Osman (https://github.com/flemton)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flemton/eodstocks/issues"
+  },
+  "homepage": "https://github.com/flemton/eodstocks#readme"
+}
